@@ -23,7 +23,7 @@ Before you begin, make sure you have the following tools and dependencies instal
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/funding-dapp.git
+git clone https://github.com/yourusername/funding-dapp.git](https://github.com/Upendra-Jaiswal/funding-dApp.git)
    cd funding-dapp
    ```
 
